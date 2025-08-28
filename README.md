@@ -1,8 +1,8 @@
-### Golden Grids 🍸
+# Golden Grids 🍸
 
 Golden Grids is a darkly whimsical bartender simulation game where your skills, intuition, and creativity are put to the ultimate test. Set in a gothic bar during a somber morning following a mourning ritual, you must craft the perfect drinks to impress your mysterious and exacting boss. Success earns you the coveted bartender position; failure… well, you’ll feel the weight of every misstep. Developed in Unity using C#.
 
-# Gameplay
+### Gameplay
 
 - **Pour, mix, and garnish:** Combine ingredients like syrups, bitters, and condiments while managing glass volume and fractions.
 
@@ -14,7 +14,7 @@ Golden Grids is a darkly whimsical bartender simulation game where your skills, 
 
 - **Multiple endings:** From sweet, sour, and bitter to too little liquid or a perfect mix, each drink outcome is unique and accompanied by immersive lore.
 
-# Features
+### Features
 
 - **Dynamic scoring:** Drinks are evaluated based on their distance from ideal flavour profiles.
 
@@ -22,7 +22,7 @@ Golden Grids is a darkly whimsical bartender simulation game where your skills, 
 
 - **Replayable:** Experiment with 26 different ingredients, 2 types of garnish and techniques to unlock different endings.
 
-# Controls
+### Controls
 
 - **Add ingredient:** Click/hold ingredients to add into the mixer.
 
@@ -32,11 +32,11 @@ Golden Grids is a darkly whimsical bartender simulation game where your skills, 
 
 - **Finalise drink:** Submit your creation for evaluation.
 
-# Installation
+### Installation
 
 Install TheMourningSip folder and run the .exe file. The game is about ~ MB.
 
-# Credits
+### Credits
 
 Developers: 
 writings, scripts, UI edits and implementations - Dilara Erbenzer
