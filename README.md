@@ -40,7 +40,7 @@ Install TheMourningSip folder and run the .exe file. The game is about ~ MB.
 
 **Developers:**
 - Dilara Erbenzer - writings, scripts, game&scoring logic, UI edits and interactions, sound effect/music implementations
-- Alperen Kalyoncu - animations, sound effects, UI/sprite design/art
+- Alperen Kalyoncu - coding, animations, sound effects, UI/sprite design/art
 
 with 🖤,
 Enjoy!
