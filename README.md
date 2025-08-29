@@ -1,6 +1,6 @@
-# Golden Grids 🍸
+# The Mourning Sip 🍸
 
-Golden Grids is a darkly whimsical bartender simulation game where your skills, intuition, and creativity are put to the ultimate test. Set in a gothic bar during a somber morning following a mourning ritual, you must craft the perfect drinks to impress your mysterious and exacting boss. Success earns you the coveted bartender position; failure… well, you’ll feel the weight of every misstep. Developed in Unity using C#.
+The Mourning Sip is a darkly whimsical bartender simulation game where your skills, intuition, and creativity are put to the ultimate test. Set in a gothic bar during a somber morning following a mourning ritual, you must craft the perfect drinks to impress your mysterious and exacting boss. Success earns you the coveted bartender position; failure… well, you’ll feel the weight of every misstep. Developed in Unity using C#.
 
 ### Gameplay
 
